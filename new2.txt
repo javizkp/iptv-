@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:0,=ENTRETENIMIENTO=
+#EXTGRP:unsorted
+#EXTINF:-1 group-title="Cine",FXM
+#EXTINF:-1,[USA] Cinemax HD
+#EXTINF:-1,SPORT: NBC Sports Network HD
+#EXTINF:0 type="favorites" channelId="-1" tvg-logo="http://XXXXXX.png", ANTENA 3 G67
+#EXTINF:0 type="favorites" channelId="-1" tvg-group="Latinos" tvg-logo="http://XXXXXX.jpg", TeleRed
